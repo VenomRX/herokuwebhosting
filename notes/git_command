@@ -1,0 +1,9 @@
+1. git init
+2. ait add filename
+3. git status
+
+ <--ssh -->
+# git remote add origin https://github.com/VenomRX/webProject.git
+4. ssh genrate(ssh-keygen )
+5. ls ~/.ssh
+
